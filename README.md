@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/anthony-mwenyo-710318131/">
-  <img align="left" alt="Mwape" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Anthony" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mwenyoa.mwenyoa)
@@ -14,10 +14,9 @@
 
 I'm Anthony Mwenyo, a full stack web developer  from Zambia. I am currently a student at <a href="https://www.microverse.org/">Microverse</a>. I take great pleasure in hands-on experience, Collaboration and teamwork.
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+Responsive and dynamic website design is my passion and goal. I have hands-on experience in cpanel web adminstration ,I have also great communication skills and remote collaboration skills through pair programming. I have so much passion in learning technologies that border fullstack web development.
 
-
-  <img align="right" alt="GIF" src="https://github.com/mwenyoa/mwenyoa/blob/main/img/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/mwenyoa/mwenyoa/blob/main/web-development.gif?raw=true" width="400" height="400" />
   
 - 💼 any freelance work? do reach, [email](mailto:mwenyoanthony@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
@@ -35,13 +34,12 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/bootstrap/bootstrap.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/sass/sass.png"></code>
 ## Tools
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/mwenyoa" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/mwenyoa" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
 📈 My github stats
