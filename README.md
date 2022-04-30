@@ -46,13 +46,15 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
 📈 My Github Stats
-<p align="left">
-  <span align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwenyoa&hide=less,scss,hack&show_icons=true&theme=chartreuse-dark&layout=compact&langs_count=8" alt="Anthony Mwenyo" />
-  </span>
 
-  <span align="center" ><img src="https://github-readme-stats.vercel.app/api?username=mwenyoa&count_private=true&count_public=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true">
-  </span> 
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwenyoa&hide=less,scss,hack&show_icons=true&theme=chartreuse-dark&layout=compact&langs_count=8" alt="Anthony Mwenyo" valign="center"/>
+</div>
+<table>
+  <tr>
+  <td halign="bottom"><img src="https://github-readme-stats.vercel.app/api?username=mwenyoa&count_private=true&count_public=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true">
+  </td> 
 
-  <span align="right" ><img src="https://github-readme-streak-stats.herokuapp.com?user=mwenyoa&theme=chartreuse-dark"></span>
-</p>
+  <td halign="bottom"><img src="https://github-readme-streak-stats.herokuapp.com?user=mwenyoa&theme=chartreuse-dark"></td>
+</tr>
+</table>
