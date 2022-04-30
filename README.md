@@ -8,8 +8,7 @@
   <img align="left" alt="Anthony" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<br />
-
+<br/>
 I am a full stack web developer  from Zambia. I am currently a student at <a href="https://www.microverse.org/">Microverse</a>. I take great pleasure in hands-on experience, Collaboration and teamwork.
 
 Responsive and dynamic website design is my passion and goal. I have hands-on experience in cpanel web adminstration ,I have also great communication skills and remote collaboration skills through pair programming. I have so much passion in learning technologies that border fullstack web development.
