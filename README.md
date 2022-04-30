@@ -42,9 +42,17 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <a href="https://www.buymeacoffee.com/mwenyoa" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
-📈 My github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mwenyoa&show_icons=true&theme=gotham" alt="mwenyoa" />
 
 
 
+📈 My Github Stats
+<p align="left">
+  <span align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwenyoa&hide=less,scss,hack&show_icons=true&theme=chartreuse-dark&layout=compact&langs_count=8" alt="Anthony Mwenyo" />
+  </span>
+
+  <span align="center" ><img src="https://github-readme-stats.vercel.app/api?username=mwenyoa&count_private=true&count_public=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true">
+  </span> 
+
+  <span align="right" ><img src="https://github-readme-streak-stats.herokuapp.com?user=mwenyoa&theme=chartreuse-dark"></span>
+</p>
