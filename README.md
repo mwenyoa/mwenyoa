@@ -35,6 +35,7 @@ Responsive and dynamic website design is my passion and goal. I have hands-on ex
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/sass/sass.png"></code>
 ## Tools
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
 
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
@@ -43,13 +44,15 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
 
-
-
-📈 My Github Stats
-
-<div>
+<p align="center">
+  <strong>
+ My Github Stats
+  </strong>
+  </p>
+  <hr>
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwenyoa&hide=less,scss,hack&show_icons=true&theme=chartreuse-dark&layout=compact&langs_count=8" alt="Anthony Mwenyo" valign="center"/>
-</div>
+</p>
 <table>
   <tr>
   <td halign="bottom"><img src="https://github-readme-stats.vercel.app/api?username=mwenyoa&count_private=true&count_public=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true">
