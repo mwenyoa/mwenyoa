@@ -35,9 +35,7 @@ Responsive and dynamic website design is my passion and goal. I have hands-on ex
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
 
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/mwenyoa" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" width="150" ></a>
+If you like what i do, maybe consider buying me a coffee/tea 👉👉<a href="https://ko-fi.com/anthonymwenyo1702" target="_blank" align="right"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
 
