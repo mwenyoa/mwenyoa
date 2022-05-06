@@ -18,7 +18,7 @@ I have hands-on experience in cpanel web adminstration, great skills in communic
   
 - 💼 Any freelance work? do reach, [email](mailto:mwenyoanthony@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help.
-- Here is a link to my <a href="https://github.com/mwenyoa/Portfolio">Portfolio </a>
+- Here is a link to my <a href="https://github.com/mwenyoa/To-Do-List">Todo List App</a>
 ## Programming languages
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
