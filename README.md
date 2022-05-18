@@ -50,8 +50,9 @@ If you like what i do, maybe consider buying me a coffee/tea 👉👉<a href="ht
 </p>
 <table>
   <tr>
-  <td halign="bottom"><img src="https://github-readme-stats.vercel.app/api?username=mwenyoa&count_private=true&count_public=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true">
-  </td> 
+    <td halign="bottom">
+          <img src="https://github-readme-stats.vercel.app/api?username=mwenyoa&count_private=true&count_public=true&show_icons=true&theme=chartreuse-dark&include_all_commits=true">
+    </td>
 
   <td halign="bottom"><img src="https://github-readme-streak-stats.herokuapp.com?user=mwenyoa&theme=chartreuse-dark"></td>
 </tr>
