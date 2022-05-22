@@ -53,6 +53,7 @@ I have hands-on experience in cpanel web adminstration, great skills in communic
   </p>
   <hr>
 <p align="center">
+  [![mweyoa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mwenyoa&theme=nightowl)](https://github.com/mwenyoa/github-readme-stats)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwenyoa&hide=less,scss,hack&show_icons=true&theme=chartreuse-dark&layout=compact&langs_count=8" alt="Anthony Mwenyo" valign="center"/>
 </p>
 <table>
