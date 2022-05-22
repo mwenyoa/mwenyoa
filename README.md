@@ -56,7 +56,7 @@ I have hands-on experience in cpanel web adminstration, great skills in communic
   <tr>
     <td halign="top">
        <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwenyoa&hide=less,scss,hack&show_icons=true&theme=chartreuse-dark&layout=compact&langs_count=8" alt="Anthony Mwenyo" valign="center"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwenyoa&hide=less,scss,hack&show_icons=true&theme=nightowl&layout=compact&langs_count=8" alt="Anthony Mwenyo" valign="center"/>
 </p>
     </td>
 
@@ -70,9 +70,9 @@ I have hands-on experience in cpanel web adminstration, great skills in communic
 <table>
   <tr>
     <td halign="bottom">
-          <img src="https://github-readme-stats.vercel.app/api?username=mwenyoa&count_private=true&count_public=true&show_icons=true&theme=chartreuse-dark&include_all_commits=true">
+   <img src="https://github-readme-stats.vercel.app/api?username=mwenyoa&count_private=true&count_public=true&show_icons=true&theme=nightowl&include_all_commits=true">
     </td>
 
-  <td halign="bottom"><img src="https://github-readme-streak-stats.herokuapp.com?user=mwenyoa&theme=chartreuse-dark"></td>
+  <td halign="bottom"><img src="https://github-readme-streak-stats.herokuapp.com?user=mwenyoa&theme=nightowl"></td>
 </tr>
 </table>
