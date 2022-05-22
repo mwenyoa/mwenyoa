@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 ## I'm Anthony Mwenyo
 <a href="https://twitter.com/anthony_mwenyo">
   <img align="left" alt="Mwenyoa | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
