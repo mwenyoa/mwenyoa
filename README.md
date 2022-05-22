@@ -22,6 +22,8 @@ I have hands-on experience in cpanel web adminstration, great skills in communic
 - 💼 Any freelance work? do reach, [email](mailto:mwenyoanthony@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help.
 - Here is a link to my <a href="https://github.com/mwenyoa/To-Do-List">Todo List App</a>
+      If you like what i do, maybe consider buying me a coffee/tea 👉👉<a href="https://ko-fi.com/anthonymwenyo1702" target="_blank" align="right"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" width="150" ></a>
+
  </td>
  <td halign="right">
  <h2>Languages</h2>
@@ -40,11 +42,9 @@ I have hands-on experience in cpanel web adminstration, great skills in communic
 ## Tools
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vscode/vscode.png"></code>
     </td>
 </tr>
 </table>
-If you like what i do, maybe consider buying me a coffee/tea 👉👉<a href="https://ko-fi.com/anthonymwenyo1702" target="_blank" align="right"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <p align="center">
   <strong>
