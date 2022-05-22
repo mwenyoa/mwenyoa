@@ -22,7 +22,7 @@ I have hands-on experience in cpanel web adminstration, great skills in communic
 - 💼 Any freelance work? do reach, [email](mailto:mwenyoanthony@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help.
 - Here is a link to my <a href="https://github.com/mwenyoa/To-Do-List">Todo List App</a>
-      If you like what i do, maybe consider buying me a coffee/tea 👉👉<a href="https://ko-fi.com/anthonymwenyo1702" target="_blank" align="right"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" width="150" ></a>
+      If you like what i do, maybe consider to 👇👇 <br><a href="https://ko-fi.com/anthonymwenyo1702" target="_blank" align="right"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me A Coffee" width="150"></a>
 
  </td>
  <td halign="right">
