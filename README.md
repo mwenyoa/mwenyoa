@@ -62,6 +62,8 @@ I have hands-on experience in cpanel web adminstration, great skills in communic
 
   <td halign="top">
     <!--START_SECTION:waka-->
+  
+[![mwenyoa wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mwenyoa&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 <!--END_SECTION:waka--></td>
 </tr>
 </table>
