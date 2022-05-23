@@ -61,26 +61,15 @@ I have hands-on experience in cpanel web adminstration, great skills in communic
     </td>
 
   <td halign="top" style="background-color:black;">
-    <!--START_SECTION:waka-->
-
-```text
-JavaScript   1 hr 25 mins    ████████████████░░░░░░░░░   63.54 %
-PHP          35 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.84 %
-JSON         9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
-HTML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-```
-
-<!--END_SECTION:waka--></td>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mwenyoa&theme=nightowl">
+ </td>
 </tr>
 </table>
 <table>
   <tr>
     <td halign="bottom">
-   <img src="https://github-readme-stats.vercel.app/api?username=mwenyoa&count_private=true&count_public=true&show_icons=true&theme=nightowl&include_all_commits=true">
+   <img src="https://github-readme-stats.vercel.app/api?username=mwenyoa&show_icons=true&theme=radical">
     </td>
-
   <td halign="bottom"><img src="https://github-readme-streak-stats.herokuapp.com?user=mwenyoa&theme=nightowl"></td>
 </tr>
 </table>
