@@ -62,8 +62,16 @@ I have hands-on experience in cpanel web adminstration, great skills in communic
 
   <td halign="top">
     <!--START_SECTION:waka-->
-  
-[![mwenyoa wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mwenyoa&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+
+```text
+JavaScript   1 hr 25 mins    ████████████████░░░░░░░░░   63.54 %
+PHP          35 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.84 %
+JSON         9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
+HTML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+```
+
 <!--END_SECTION:waka--></td>
 </tr>
 </table>
