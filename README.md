@@ -17,6 +17,14 @@ I have hands-on experience in cpanel web adminstration, great skills in communic
 <table>
   <tr>
  <td halign="left">
+  <img align="right" alt="GIF" src="https://github.com/mwenyoa/mwenyoa/blob/main/web-development.gif?raw=true" width="300" height="300" />
+    
+- 💼 Any freelance work? do reach, [email](mailto:mwenyoanthony@gmail.com) :)
+- 💬 Ask me about anything, I am happy to help.
+- Here is a link to my <a href="https://github.com/mwenyoa/To-Do-List">Todo List App</a>
+      If you like what i do, maybe consider to 👇👇 <br><a href="https://ko-fi.com/anthonymwenyo1702" target="_blank" align="right"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me A Coffee" width="150"></a>
+ </td>
+ <td halign="right">
  <h2>Skills</h2>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="130" height="40">
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"  width="130" height="40">
@@ -35,14 +43,6 @@ I have hands-on experience in cpanel web adminstration, great skills in communic
  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" width="130" height="40">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" width="130" height="40">
     </td>
-     <td halign="right">
-  <img align="right" alt="GIF" src="https://github.com/mwenyoa/mwenyoa/blob/main/web-development.gif?raw=true" width="300" height="300" />
-    
-- 💼 Any freelance work? do reach, [email](mailto:mwenyoanthony@gmail.com) :)
-- 💬 Ask me about anything, I am happy to help.
-- Here is a link to my <a href="https://github.com/mwenyoa/To-Do-List">Todo List App</a>
-      If you like what i do, maybe consider to 👇👇 <br><a href="https://ko-fi.com/anthonymwenyo1702" target="_blank" align="right"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me A Coffee" width="150"></a>
- </td>
 </tr>
 </table>
 
