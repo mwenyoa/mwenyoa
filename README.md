@@ -60,7 +60,7 @@ I have hands-on experience in cpanel web adminstration, great skills in communic
 </p>
     </td>
 
-  <td halign="top">
+  <td halign="top" style="background:black;">
     <!--START_SECTION:waka-->
 
 ```text
@@ -84,3 +84,10 @@ CSS          0 secs          ░░░░░░░░░░░░░░░░░
   <td halign="bottom"><img src="https://github-readme-streak-stats.herokuapp.com?user=mwenyoa&theme=nightowl"></td>
 </tr>
 </table>
+<table>
+  <tr>
+    <td style="background-color:black;">
+      <img src="https://github-profile-trophy.vercel.app/?username=mwenyoa&theme=onedark&github-profile-trophy=true" style="width:100vh;"  align="center">
+    </td>
+    <tr>
+ </table>
