@@ -61,6 +61,7 @@ I have hands-on experience in cpanel web adminstration, great skills in communic
     </td>
 
   <td halign="top" style="background-color:black;">
+    <p valign="center" color="black"> My statistics of what i have been working on this week</p>
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mwenyoa&theme=nightowl">
  </td>
 </tr>
