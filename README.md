@@ -1,13 +1,15 @@
-## Hi there 👋
 ## I'm Anthony Mwenyo
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6667AB&center=true&vCenter=true&lines=Thanks+for+visiting+my+profile+%F0%9F%98%83;+Hi+,+a+%E2%AD%90++on+my+repo+is+appreciated!;+Happy+coding!+%F0%9F%9A%80)
+
+<h4><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">Let's connect and forge the future together 🚀 </h4>
 <a href="https://twitter.com/anthony_mwenyo">
-  <img align="left" alt="Mwenyoa | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Mwenyoa | Twitter" width="100" height="30" src="https://img.shields.io/badge/Twitter-1EA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/anthony-mwenyo-710318131/">
-  <img align="left" alt="Anthony" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
+  <img align="left" alt="Anthony" width="100" height="30"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a><br>
 <br/>
 <p>I am a full-stack web developer from Zambia, and I am currently a student at <a href="https://www.microverse.org/">Microverse</a>. I take great pleasure in hands-on experience, collaboration and teamwork.<br>
 
