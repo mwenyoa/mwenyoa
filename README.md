@@ -1,4 +1,7 @@
+
 ## I'm Anthony Mwenyo
+
+![linkeIn banner](https://user-images.githubusercontent.com/28694196/174442977-ebed51ae-d3bf-44cc-99cf-2cbe97448f4e.png)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6667AB&center=true&vCenter=true&lines=Thanks+for+visiting+my+profile+%F0%9F%98%83;+Hi+,+a+%E2%AD%90++on+my+repo+is+appreciated!;+Happy+coding!+%F0%9F%9A%80)
 
