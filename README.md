@@ -36,13 +36,6 @@ I have hands-on experience in cpanel web adminstration, great skills in communic
 <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" width="130" height="40">
  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" width="130" height="40">
  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" width="130" height="40">
-<td>
-
-- 💼 Any freelance work? do reach, [email](mailto:mwenyoanthony@gmail.com) :)
-- 💬 Ask me about anything, I am happy to help.
-- Here is a link to my <a href="https://github.com/mwenyoa/To-Do-List">Todo List App</a>
-      If you like what i do, maybe consider to 👇👇 <br><a href="https://ko-fi.com/anthonymwenyo1702" target="_blank" align="right"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me A Coffee" width="150"></a>
-</td>
 ## Frameworks
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="130" height="40">
    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" width="130" height="40"/>
