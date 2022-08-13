@@ -9,6 +9,10 @@
 <a href="https://twitter.com/anthony_mwenyo">
   <img align="left" alt="Mwenyoa | Twitter" width="100" height="30" src="https://img.shields.io/badge/Twitter-1EA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
+<a href="mailto:mwenyoanthony@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100" height="30">
+ </a>
+
 
 <a href="https://www.linkedin.com/in/anthony-mwenyo">
   <img align="left" alt="Anthony" width="100" height="30"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
