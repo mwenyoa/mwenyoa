@@ -26,7 +26,7 @@ I have hands-on experience in cpanel web adminstration, great skills in communic
 <table>
   <tr>
  <td halign="left">
-  <img align="right" alt="GIF" src="https://github.com/mwenyoa/mwenyoa/blob/main/web-development.gif?raw=true" width="300" height="300" /
+  <img align="right" alt="GIF" src="https://github.com/mwenyoa/mwenyoa/blob/main/web-development.gif?raw=true" width="300" height="200" /
  </td>
  <td halign="right">
  <h2>Skills</h2>
