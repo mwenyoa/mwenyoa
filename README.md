@@ -20,7 +20,7 @@
 <br/>
 <p>I am a full-stack web developer from Zambia, an Alumni of a prestigious Fullstack Web Development online School  <a href="https://www.microverse.org/">Microverse</a>. I take great pleasure in hands-on experience, collaboration, and teamwork.<br>
 
-Building exceptional digital experiences, with a deep focus on building scalable, accessible, and human-centered products is what inspires my unbending determination for learning trending technologies. 
+Building exceptional digital experiences, with a deep focus on developing scalable, accessible, and human-centered products is what inspires my unbending determination for learning trending technologies. 
 I have hands-on experience and great skills in SCRUM, Mentoring, Code Review, communication, and remote pair programming. 
 </p>
 <table>
