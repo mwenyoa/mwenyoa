@@ -74,7 +74,7 @@ I have hands-on experience and great skills in SCRUM, Mentoring, Code Review, co
   <tr>
     <td halign="top">
        <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=mwenyoa&repo=mwenyoa)](https://github.com/mwenyoa/github-readme-stats" alt="Anthony Mwenyo" valign="center"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mwenyoa&repo=mwenyoa)](https://github.com/mwenyoa/github-readme-stats" alt="Anthony Mwenyo" valign="center"/>
 </p>
     </td>
 
