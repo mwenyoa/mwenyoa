@@ -74,12 +74,12 @@ I have hands-on experience and great skills in SCRUM, Mentoring, Code Review, co
   <tr>
     <td halign="top">
        <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwenyoa&hide=less,scss,hack&show_icons=true&theme=nightowl&layout=compact&langs_count=8" alt="Anthony Mwenyo" valign="center"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=mwenyoa&repo=mwenyoa)](https://github.com/mwenyoa/github-readme-stats" alt="Anthony Mwenyo" valign="center"/>
 </p>
     </td>
 
   <td halign="top" style="background-color:black;">
-    <p valign="center" color="black"> My statistics of what i have been working on this week</p>
+    <p valign="center" color="black"> My statistics of what I have been working on this week</p>
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mwenyoa&theme=nightowl">
  </td>
 </tr>
