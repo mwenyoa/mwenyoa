@@ -38,9 +38,8 @@ I have hands-on experience in cpanel web administration, and great skills in com
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" width="120" height="30">
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" width="120" height="30">
 <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" width="120" height="30">
- <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" width="120" height="30">
  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" width="120" height="30">
-<br>
+<br />
     <h2> Frameworks </h2>
    <img src="https://img.shields.io/badge/React-30232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="120" height="30">
    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" width="120" height="30"/>
@@ -49,6 +48,11 @@ I have hands-on experience in cpanel web administration, and great skills in com
  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" width="120" height="30">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" width="120" height="30">
     <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" height="30" width="120">
+   <br />
+      <h2> Databases </h2>
+       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" width="120" height="30"> 
+       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" width="120" height="30"> 
+        <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" width="120" height="30"> 
     </td>
 </tr>
 </table>
