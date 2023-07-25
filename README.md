@@ -18,7 +18,7 @@
   <img align="left" alt="Anthony" width="100" height="35"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a><br>
 <br/>
-<p>I am a full-stack web developer from Zambia, and currently a student at <a href="https://www.microverse.org/">Microverse</a>. I take great pleasure in hands-on experience, collaboration, and teamwork.<br>
+<p>I am a full-stack web developer from Zambia, an Alumni of a prestigious Fullstack Web Development online School  <a href="https://www.microverse.org/">Microverse</a>. I take great pleasure in hands-on experience, collaboration, and teamwork.<br>
 
 Developing software products that accommodate scalability and data retention is what inspires my unbending determination for learning trending technologies. 
 I have hands-on experience in cpanel web administration, and great skills in communication and remote pair programming. 
