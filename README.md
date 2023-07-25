@@ -75,7 +75,7 @@ I have hands-on experience and great skills in SCRUM, Mentoring, Code Review, co
     <td halign="top">
        <p align="center">
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mwenyoa&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mwenyoa&layout=compact&langs_count=8&theme=nightowl&card_width=320" />
 </a>
 </p>
     </td>
