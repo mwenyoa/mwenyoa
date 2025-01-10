@@ -24,7 +24,7 @@ I have hands-on experience and great skills in SCRUM, Mentoring, Code Review, co
 <table>
   <tr>
  <td halign="left">
-  <img align="right" alt="GIF" src="https://github.com/mwenyoa/mwenyoa/blob/main/web-development.gif?raw=true" width="350" height="350" /
+  <img  alt="GIF" src="https://github.com/mwenyoa/mwenyoa/blob/main/web-development.gif?raw=true" width="100vw" height="350" /
  </td>
  <td halign="right">
  <h2>Skills</h2>
