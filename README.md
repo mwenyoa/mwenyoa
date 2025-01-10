@@ -97,7 +97,7 @@ I have hands-on experience and great skills in SCRUM, Mentoring, Code Review, co
 <table>
   <tr>
     <td style="background-color:black;">
-      <img src="https://github-profile-trophy.vercel.app/?username=mwenyoa&theme=onedark&github-profile-trophy=true" style="width:100vw;"  align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=mwenyoa&theme=onedark&github-profile-trophy=true">
     </td>
     <tr>
  </table>
