@@ -16,7 +16,7 @@
   <img align="left" alt="Anthony" width="100" height="35"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a><br>
 <br/>
-<p>I am a full-stack web developer from Zambia, an Alumni of a prestigious Fullstack Web Development online School  <a href="https://www.microverse.org/">Microverse</a>. I take great pleasure in hands-on experience, collaboration, and teamwork.<br>
+<p>I am a full-stack web developer from Zambia, an Alumni of a prestigious Fullstack web development online School  <a href="https://www.microverse.org/">Microverse</a>. I take great pleasure in hands-on experience, collaboration, and teamwork.<br>
 
 Building exceptional digital experiences, with a deep focus on developing scalable, accessible, and human-centered products is what inspires my unbending determination for learning trending technologies. 
 I have hands-on experience and great skills in SCRUM, Mentoring, Code Review, communication, and remote pair programming. 
@@ -37,6 +37,7 @@ I have hands-on experience and great skills in SCRUM, Mentoring, Code Review, co
 <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" width="120" height="35">
  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" width="120" height="35">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" width="120" height="35">
+   
 <br />
     <h2> Frameworks </h2>
    <img src="https://img.shields.io/badge/React-35232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="120" height="35">
@@ -49,17 +50,19 @@ I have hands-on experience and great skills in SCRUM, Mentoring, Code Review, co
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="35" width="120">
   <img src="https://img.shields.io/badge/Pug-E3C29B?style=for-the-badge&logo=pug&logoColor=black" height="35" width="120"><br />
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" width="120" height="35">
-      <h3> Databases </h3>
+<img src="https://img.shields.io/badge/LARAVEL-777BB4?style=for-the-badge&logo=laravel&logoColor=white" width="120" height="35">
+      <h2> Databases </h2>
        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" width="120" height="35"> 
        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" width="120" height="35"> 
         <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" width="120" height="35"> 
-      <h3>Tools Used</h3>
+      <h2>Tools Used</h2>
         <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" width="120" height="35"> 
        <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" width="120" height="35"> 
        <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" width="120" height="35"> 
        <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" width="120" height="35">
        <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" width="120" height="35">
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" width="120" height="35">
+       <img src="https://img.shields.io/badge/Thunder-Client-FF6C47?style=for-the-badge&logo=Thunder-Client&logoColor=white" width="120" height="35">
     </td>
 </tr>
 </table>
