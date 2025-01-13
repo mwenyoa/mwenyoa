@@ -94,7 +94,7 @@ I have hands-on experience and great skills in SCRUM, Mentoring, Code Review, co
     <td halign="bottom">
    <img src="https://github-readme-stats.vercel.app/api?username=mwenyoa&show_icons=true&theme=radical">
     </td>
-  <td halign="bottom"><img src="https://github-readme-streak-stats.herokuapp.com?user=mwenyoa&theme=nightowl" /></td>
+  <td halign="bottom"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mwenyoa&theme=nightowl"/></a></td>
 </tr>
 </table>
 <table>
