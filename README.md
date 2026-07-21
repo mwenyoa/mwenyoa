@@ -151,9 +151,8 @@ If you're looking to collaborate on exciting projects, enterprise software, heal
 
 ⭐ If you enjoy any of my projects, don't forget to leave a star—it truly helps!
 
----
 
 <p align="center">
 Made with ❤️ by <strong>Anthony Mwenyo</strong>
 </p>
-```
+
