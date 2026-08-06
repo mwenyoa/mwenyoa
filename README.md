@@ -1,8 +1,4 @@
-# Hi there, I'm Anthony Mwenyo 👋
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/28694196/174442977-ebed51ae-d3bf-44cc-99cf-2cbe97448f4e.png" alt="LinkedIn Banner" width="100%">
-</p>
+# Hi there, I'm Anthony 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=6667AB&center=true&vCenter=true&lines=Thanks+for+visiting+my+profile+😃;Full-Stack+Web+Developer;Building+Scalable+Applications;Enterprise+Healthcare+Solutions;Happy+Coding!+🚀" alt="Typing SVG">
@@ -135,15 +131,12 @@ My primary focus is designing enterprise-grade applications with clean architect
 
 </p>
 
----
-
-## 📈 Weekly Coding Activity
-
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=mwenyoa&theme=tokyonight"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mwenyoa&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
----
 
 ## 🤝 Let's Build Something Amazing
 
@@ -153,6 +146,6 @@ If you're looking to collaborate on exciting projects, enterprise software, heal
 
 
 <p align="center">
-Made with ❤️ by <strong>Anthony Mwenyo</strong>
+Made with ❤️ by <strong>Anthony</strong>
 </p>
 
